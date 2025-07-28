@@ -13,7 +13,7 @@
 - 💡 **Interests:** Web Development, Software Development, Problem Solving  
 - 🚀 **Building:** Full-Stack Applications & Scalable Web Solutions  
 - 💬 **Ask Me About:** React JS, JavaScript, MongoDB, Express.js, Node.js  
-- 📧 **Email:** [ashwinithikole@gmail.com](mailto:ashwinithikole@gmail.com)  
+- 📧 **Email:** [mayurifalke222@gmail.com](mailto:mayurifalke222@gmail.com)  
 - 🌍 **Portfolio:** [Click Here](https://portfolio-kohl-mu-66.vercel.app/)
 
 ---
