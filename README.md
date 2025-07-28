@@ -1,9 +1,6 @@
 <h1 align="center">👋 Hi, I'm Mayuri Santosh Falke</h1>
 <h3 align="center">🚀Passionate About Full Stack Development |  MERN Stack Developer </h3>
 
-<p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=mayurifalke&label=Profile%20Views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/152616198?v=4)" alt="Profile Views" />
-</p>
 
 ---
 
