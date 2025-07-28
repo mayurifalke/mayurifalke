@@ -11,7 +11,7 @@
 - 🚀 **Building:** Full-Stack Applications & Scalable Web Solutions  
 - 💬 **Ask Me About:** React JS, JavaScript, MongoDB, Express.js, Node.js  
 - 📧 **Email:** [mayurifalke222@gmail.com](mailto:mayurifalke222@gmail.com)  
-- 🌍 **Portfolio:** [Click Here](https://portfolio-kohl-mu-66.vercel.app/)
+- 🌍 **Portfolio:** [Click Here][https://mayuriportfolio-kappa.vercel.app/]
 
 ---
 ## 🔗 Connect with Me  
