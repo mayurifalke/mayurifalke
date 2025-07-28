@@ -11,7 +11,7 @@
 - 🚀 **Building:** Full-Stack Applications & Scalable Web Solutions  
 - 💬 **Ask Me About:** React JS, JavaScript, MongoDB, Express.js, Node.js  
 - 📧 **Email:** [mayurifalke222@gmail.com](mailto:mayurifalke222@gmail.com)  
-- 🌍 **Portfolio:** [Click Here][(https://mayuriportfolio-kappa.vercel.app/)]
+- 🌍 **Portfolio:** [https://mayuriportfolio-kappa.vercel.app/]
 
 ---
 ## 🔗 Connect with Me  
@@ -58,9 +58,9 @@
 
 ## 🎯 Fun Facts  
 - 🌟 I love **coding challenges & hackathons**.
-- - 🔥 Always eager to learn **new technologies**!  
+- 🔥 Always eager to learn **new technologies**!  
 - 🎶 Music and **traveling** keep me refreshed.  
-- 🏆 Participated in **Smart India Hackathon & Avishkar**.  
+- 🏆 Participated in **Smart India Hackathon, Avishkar, AI Hackathon**.  
 
 
 ---
