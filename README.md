@@ -31,7 +31,7 @@
 
 ##  Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,mysql,java,python,c,cpp,git,github,vscode,php,tailwind,Resfull API Development" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,mysql,java,python,c,cpp,git,github,vscode,php,tailwind" alt="Tech Stack" />
 </p>
 
 ---
