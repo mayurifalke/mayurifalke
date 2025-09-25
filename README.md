@@ -1,10 +1,6 @@
 <h1 align="center"> Hi, I'm Mayuri Santosh Falke</h1>
 <h3 align="center">Passionate About Full Stack Development |  MERN Stack Developer </h3>
 
-## LeetCode Badges
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Mayuri_Falke&animated=true)
-
-
 ---
 
 ##  About Me  
@@ -38,6 +34,9 @@
 </p>
 
 ---
+
+## LeetCode Badges
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Mayuri_Falke&animated=true)
 
 ## GitHub Stats  
 <p align="center">
