@@ -57,8 +57,6 @@
 
 ---
 
-## Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayurifalke&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## Additional Information
 -  I love **coding challenges & hackathons**.
